@@ -1,0 +1,40 @@
+.stat-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.stat-icon {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+.stat-number {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.stat-label {
+    font-size: 18px;
+    color: #777;
+}
+
+.icon-1 {
+    background-image: url('icon-1.svg');
+}
+
+.icon-2 {
+    background-image: url('icon-2.svg');
+}
+
+.icon-3 {
+    background-image: url('icon-3.svg');
+}
+
+.icon-4 {
+    background-image: url('icon-4.svg');
+}
